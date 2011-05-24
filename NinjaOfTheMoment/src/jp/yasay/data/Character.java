@@ -45,6 +45,7 @@ public class Character implements Closeable {
 		if(this.name != null && 0 < this.name.length()){
 			image = new ImageView(context);
 			//TODO: 名前から取得したい場合、どこに配置したものどう参照すればよいのだろうか…
+			// raw フォルダから getResource() で参照できます
 			image.setImageBitmap(BitmapFactory.decodeFile(this.name));
 		}
 	}
