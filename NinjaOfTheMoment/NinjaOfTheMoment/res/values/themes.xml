@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="Theme.Defalut" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+		<!-- これを継承して作成。 -->
+	</style>
+
+</resources>
