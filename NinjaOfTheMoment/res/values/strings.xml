@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, YASAY!</string>
-    <string name="app_name">NinjaOfTheMoment</string>
+    <string name="app_name">Ninja Of The Moment</string>
+
+	<!-- プロト用 -->
+	<string name="menu_single">Single</string>
+	<string name="menu_multi">Multi</string>
+	<string name="menu_scores">Scores</string>
+	<string name="menu_options">Options</string>
 </resources>
